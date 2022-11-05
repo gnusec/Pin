@@ -1,13 +1,13 @@
 
 ## 简介
-一个用来替代系统自带ping的工具
+#### 一个用来替代系统自带ping的工具
 
 可以额外用来探测目标IP和域名的相关消息
 
 目前: 反查,ip消息，类型绑定
 
 ## 执行流程
-get_hostname 解析传输获取域名或者ip
+```get_hostname 解析传输获取域名或者ip
 然后
 A: 如果ping 域名. 则
     域名->ip
@@ -36,15 +36,20 @@ TODO:
     tcp ping(端口探测)
     子域名历史解析递归
     关联IP端口扫描和finger
-
+```
 ## 编译
-Linux: 
-        nim c -d:release -d:ssl   -o:pin_linux pin.nim
 
-Windows:
-        nim -d:ssl c -d:release   --opt:size --passL:-lws2_32  -o:pin_windowsx64   pin.nim
+>Linux: 
+
+`nim c -d:release -d:ssl   -o:pin_linux pin.nim`
         
-        也可以在linux下编译, 不过可能无法用wine运行，建议直接在windows平台上编译widnows版本
-        nim c -d:release  -d:ssl -d=mingw --app=console  --opt:size --passL:-lws2_32   -o:pin_windowsx64 pin.nim
+
+>Windows:
+
+`nim -d:ssl c -d:release   --opt:size --passL:-lws2_32  -o:pin_windowsx64   pin.nim`
+        
+也可以在linux下编译, 不过可能无法用wine运行，建议直接在windows平台上编译widnows版本
+        
+`nim c -d:release  -d:ssl -d=mingw --app=console  --opt:size --passL:-lws2_32   -o:pin_windowsx64 pin.nim`
 
 
