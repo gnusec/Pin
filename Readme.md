@@ -43,6 +43,7 @@ Linux:
 
 Windows:
         nim -d:ssl c -d:release   --opt:size --passL:-lws2_32  -o:pin_windowsx64   pin.nim
+        
         也可以在linux下编译, 不过可能无法用wine运行，建议直接在windows平台上编译widnows版本
         nim c -d:release  -d:ssl -d=mingw --app=console  --opt:size --passL:-lws2_32   -o:pin_windowsx64 pin.nim
 

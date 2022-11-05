@@ -181,7 +181,10 @@ if FLAG_ALL:
       
 
   # quit();
+  echo "\n"
   ping(dstHost)
 
+
+echo "\n"
 ping(dstHost)
 
