@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+<meta name="robots" content="all">
+<meta name="referrer" content="always">
+<meta name="renderer" content="webkit">
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta name="format-detection" content="telephone=no"/>
+<meta name="applicable-device" content="pc,mobile"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<meta name="apple-mobile-web-app-status-bar-style" content="black"/>
+<title>cip.cc服务器iP cip.cc域名解析 cip.cciP查询 cip.cc域名iP查询</title>
+<link type="text/css" rel="stylesheet" href="//cache.ip138.com/site/style/dist/responsive.css?v=202210081630"/>
+<link type="text/css" rel="stylesheet" href="//cache.ip138.com/site/style/dist/index.css?v=202210081630"/>
+<script>
+if (window.top != window.self) {
+window.top.location.href = 'https://site.ip138.com/';
+}
+var _INPUT = 'cip.cc';
+var _TOKEN = '093e40bf51a5b7cf41d40ae12d8621d4';
+var CONFIG = {
+'cacheUrl':'//cache.ip138.com/'
+};
+</script>
+<script defer src="//cache.ip138.com/site/script/dist/method.js?v=202210081630"></script>
+</head>
+<body>
+<div class="wrapper">
+<div class="header">
+<div class="mod-head">
+<ul class="link only-pc">
+<li><span class="icon-date"></span></li>
+</ul>
+<a class="logo" href="http://www.ip138.com/"><img src="//cache.ip138.com/site/image/public/logo.png" width="147" height="50" alt="查询网"></a>
+<a class="menu only-mobile" href="javascript:;" rel="nofollow"><span></span><span></span><span></span></a>
+</div>
+</div>
+<div class="container">
+<div class="side">
+<div class="mod-link">
+<div class="bd">
+<ul>
+<li class="small"><a href="//www.ip138.com/" target="_blank">iP查询</a></li>
+<li class="small"><a href="//qq.ip138.com/weather/" target="_blank">天气预报</a></li>
+<li><a href="//www.ip138.com/sj/" target="_blank">手机号码归属地查询</a></li>
+<li><a href="https://www.liantu.com/" target="_blank">二维码生成器</a></li>
+<li><a href="https://caipiao.ip138.com/" target="_blank">彩票开奖查询</a></li>
+<li><a href="//bifen.ip138.com/" target="_blank">体育比赛比分</a></li>
+<li><a href="https://www.yitaifang.com/" target="_blank">以太坊区块浏览器</a></li>
+<li><a href="//www.ip138.com/weizhang.htm" target="_blank">车辆交通违章查询</a></li>
+<li class="small"><a href="http://10.ip138.com/" target="_blank">品牌排行榜</a></li>
+<li class="small"><a href="//qq.ip138.com/hl.asp" target="_blank">汇率查询</a></li>
+<li><a href="//www.ip138.com/jb.htm" target="_blank">国内国际机票查询</a></li>
+<li><a href="//qq.ip138.com/train/" target="_blank">国内列车时刻表查询</a></li>
+<li class="small"><a href="//qq.ip138.com/tran.htm" target="_blank">在线翻译</a></li>
+<li class="small"><a href="//www.ip138.com/ems/" target="_blank">快递查询</a></li>
+<li class="small"><a href="//www.ip138.com/post/" target="_blank">区号查询</a></li>
+<li class="small"><a href="//www.ip138.com/post/" target="_blank">邮编查询</a></li>
+<li><a href="//qq.ip138.com/idsearch/" target="_blank">身份证号码查询验证</a></li>
+<li class="small"><a href="//qq.ip138.com/wb/wb.asp" target="_blank">拼音查询</a></li>
+<li class="small"><a href="//qq.ip138.com/zt.htm" target="_blank">转贴工具</a></li>
+<li><a href="//qq.ip138.com/day/" target="_blank">阴阳转换万年历</a></li>
+<li><a href="//www.ip138.com/carlist.htm" target="_blank">全国各地车牌查询表</a></li>
+<li><a href="//qq.ip138.com/converter.htm" target="_blank">在线度衡量转换器</a></li>
+<li><a href="//www.ip138.com/gb.htm" target="_blank">汉字简体繁体转换</a></li>
+</ul>
+</div>
+</div>
+</div>                <div class="content">
+<div class="mod-breadcrumb">
+<a href="http://www.ip138.com/">首页</a> <span>&gt;</span> <a href="/">服务器iP</a> <span>&gt;</span> <strong>cip.cc服务器iP</strong>
+</div>
+<div class="mod-panel">
+<div class="hd">
+<h1><a href="/">iP或域名查询</a></h1>
+</div>
+<div class="bd">
+<div class="search">
+<input class="input-text" id="input" placeholder="请输入你要查询的iP或域名" type="text" value="cip.cc">
+<input class="input-button input-query" type="button" value="查询" onclick="queryInput();"/>
+<input class="input-button input-visit" type="button" value="访问" onclick="visitInput();"/>
+</div>
+<div class="link" id="link">
+</div>
+<div class="result result3">
+<ul class="navs">
+<li class="active"><a href="javascript:;" rel="nofollow">iP</a></li>
+<li><a href="/cip.cc/domain.htm">子域名</a></li>
+<li><a href="/cip.cc/beian.htm">备案</a></li>
+<li><a href="/cip.cc/whois.htm">Whois</a></li>
+<li><a href="https://www.zhaokuaizhao.com/cip.cc/" target="_blank">快照</a></li>
+</ul>
+<div class="panels">
+<div class="panel">
+<h2 class="name"><strong>cip.cc</strong>服务器iP：</h2>
+<h3>当前解析：</h3>
+<div id="curadress">
+<img src="//cache.ip138.com/site/image/public/loading.gif" width="32" height="32">
+</div>
+<p><a class="btn" href="https://www.chajiechi.com/#cip.cc" target="_blank" rel="nofollow">网站劫持真机检测</a></p>
+<h3>历史解析记录：</h3>
+<div id="J_ip_history">
+<p>
+<span class="date">2019-11-20-----2022-10-26</span>
+<a href="/122.51.162.249/" target="_blank">122.51.162.249</a>
+</p>
+<p>
+<span class="date">2021-05-17-----2022-10-26</span>
+<a href="/122.51.157.137/" target="_blank">122.51.157.137</a>
+</p>
+<p>
+<span class="date">2019-02-06-----2019-11-07</span>
+<a href="/106.12.206.251/" target="_blank">106.12.206.251</a>
+</p>
+<p>
+<span class="date">2019-05-25-----2019-11-07</span>
+<a href="/106.12.204.122/" target="_blank">106.12.204.122</a>
+</p>
+<p>
+<span class="date">2016-12-02-----2018-10-31</span>
+<a href="/120.27.134.98/" target="_blank">120.27.134.98</a>
+</p>
+</div>
+</div>
+</div>
+</div>
+<div class="result">
+</div>
+<div class="mod-idc"></div>
+<div class="banner">
+<script type="text/javascript">
+(function() {
+var s = "_" + Math.random().toString(36).slice(2);
+document.write('<div style="" id="' + s + '"></div>');
+(window.slotbydup = window.slotbydup || []).push({
+id: "u3920846",
+container:  s
+});
+})();
+</script>
+</div>
+<div class="result result1">
+<div class="group">
+<ul>
+<li class="title"><span>最新域名查询</span></li>
+<li><a href="/hzbianqu.com/" target="_blank">hzbianqu.com</a></li>
+<li><a href="/filim.gilibos.com/" target="_blank">filim.gilibos.com</a></li>
+<li><a href="/aablt.com/" target="_blank">aablt.com</a></li>
+<li><a href="/www.ekrctb.com/" target="_blank">www.ekrctb.com</a></li>
+<li><a href="/www.abotck.com/" target="_blank">www.abotck.com</a></li>
+<li><a href="/twire.gg/" target="_blank">twire.gg</a></li>
+<li><a href="/agedm8.com/" target="_blank">agedm8.com</a></li>
+<li><a href="/www.874123.com/" target="_blank">www.874123.com</a></li>
+<li><a href="/tgproxy.51vv.top/" target="_blank">tgproxy.51vv.top</a></li>
+<li><a href="/34050.com/" target="_blank">34050.com</a></li>
+<li><a href="/buding6.com/" target="_blank">buding6.com</a></li>
+<li><a href="/www.xeqwkm.com/" target="_blank">www.xeqwkm.com</a></li>
+<li><a href="/www.caobi333.com/" target="_blank">www.caobi333.com</a></li>
+<li><a href="/taosetv.com/" target="_blank">taosetv.com</a></li>
+<li><a href="/japanesexxxx24.com/" target="_blank">japanesexxxx24.com</a></li>
+</ul>
+<ul>
+<li class="title"><span>最新iP查询</span></li>
+<li><a href="/67.228.74.123/" target="_blank">67.228.74.123</a></li>
+<li><a href="/45.33.18.44/" target="_blank">45.33.18.44</a></li>
+<li><a href="/43.198.49.202/" target="_blank">43.198.49.202</a></li>
+<li><a href="/203.195.208.120/" target="_blank">203.195.208.120</a></li>
+<li><a href="/144.48.126.26/" target="_blank">144.48.126.26</a></li>
+<li><a href="/124.229.36.41/" target="_blank">124.229.36.41</a></li>
+<li><a href="/67.227.226.240/" target="_blank">67.227.226.240</a></li>
+<li><a href="/23.225.40.28/" target="_blank">23.225.40.28</a></li>
+<li><a href="/124.229.36.201/" target="_blank">124.229.36.201</a></li>
+<li><a href="/198.58.118.167/" target="_blank">198.58.118.167</a></li>
+<li><a href="/124.229.36.55/" target="_blank">124.229.36.55</a></li>
+<li><a href="/202.160.128.205/" target="_blank">202.160.128.205</a></li>
+<li><a href="/52.4.209.250/" target="_blank">52.4.209.250</a></li>
+<li><a href="/124.229.36.112/" target="_blank">124.229.36.112</a></li>
+<li><a href="/23.225.73.117/" target="_blank">23.225.73.117</a></li>
+</ul>
+</div>
+<div class="banner link" id="banner1"></div>
+<div class="banner">
+<script type="text/javascript">
+(function() {
+var s = "_" + Math.random().toString(36).slice(2);
+document.write('<div style="" id="' + s + '"></div>');
+(window.slotbydup = window.slotbydup || []).push({
+id: "u3920846",
+container:  s
+});
+})();
+</script>
+</div>
+<div class="group">
+<ul>
+<li class="title"><span>最新备案查询</span></li>
+<li><a href="/fundog.cc/beian.htm" target="_blank">fundog.cc</a></li>
+<li><a href="/eyexm.com/beian.htm" target="_blank">eyexm.com</a></li>
+<li><a href="/etcxm.com/beian.htm" target="_blank">etcxm.com</a></li>
+<li><a href="/gxajj.com/beian.htm" target="_blank">gxajj.com</a></li>
+<li><a href="/xiaotianshi.com/beian.htm" target="_blank">xiaotianshi.com</a></li>
+<li><a href="/apolloipay.com/beian.htm" target="_blank">apolloipay.com</a></li>
+<li><a href="/expoee.cn/beian.htm" target="_blank">expoee.cn</a></li>
+<li><a href="/wxpfb.cn/beian.htm" target="_blank">wxpfb.cn</a></li>
+<li><a href="/futurestory.cn/beian.htm" target="_blank">futurestory.cn</a></li>
+<li><a href="/xpump.net/beian.htm" target="_blank">xpump.net</a></li>
+<li><a href="/hzbianqu.com/beian.htm" target="_blank">hzbianqu.com</a></li>
+<li><a href="/130vip.com/beian.htm" target="_blank">130vip.com</a></li>
+<li><a href="/ycxhqgs.com/beian.htm" target="_blank">ycxhqgs.com</a></li>
+<li><a href="/auspous.com/beian.htm" target="_blank">auspous.com</a></li>
+<li><a href="/1gy.net/beian.htm" target="_blank">1gy.net</a></li>
+</ul>
+<ul>
+<li class="title"><span>最新子域名查询</span></li>
+<li><a href="/xxxxx69.com/domain.htm" target="_blank">xxxxx69.com</a></li>
+<li><a href="/wwwby1377.com/domain.htm" target="_blank">wwwby1377.com</a></li>
+<li><a href="/www19aaa.cc/domain.htm" target="_blank">www19aaa.cc</a></li>
+<li><a href="/usbornebookstoday.com/domain.htm" target="_blank">usbornebookstoday.com</a></li>
+<li><a href="/jizz1.com/domain.htm" target="_blank">jizz1.com</a></li>
+<li><a href="/jevicbq.cn/domain.htm" target="_blank">jevicbq.cn</a></li>
+<li><a href="/ip.cn/domain.htm" target="_blank">ip.cn</a></li>
+<li><a href="/cpdddd.com/domain.htm" target="_blank">cpdddd.com</a></li>
+<li><a href="/b7s22.com/domain.htm" target="_blank">b7s22.com</a></li>
+<li><a href="/91kkpp.com/domain.htm" target="_blank">91kkpp.com</a></li>
+<li><a href="/520hhxx.com/domain.htm" target="_blank">520hhxx.com</a></li>
+<li><a href="/11wwww.com/domain.htm" target="_blank">11wwww.com</a></li>
+<li><a href="/zhaoavdaohang.com/domain.htm" target="_blank">zhaoavdaohang.com</a></li>
+<li><a href="/xb357.tv/domain.htm" target="_blank">xb357.tv</a></li>
+<li><a href="/wwwv4hj.com/domain.htm" target="_blank">wwwv4hj.com</a></li>
+</ul>
+</div>
+<div class="banner link" id="banner2"></div>
+<div class="banner">
+<script type="text/javascript">
+(function() {
+var s = "_" + Math.random().toString(36).slice(2);
+document.write('<div style="" id="' + s + '"></div>');
+(window.slotbydup = window.slotbydup || []).push({
+id: "u3920846",
+container:  s
+});
+})();
+</script>
+</div>
+<!-- 多条广告如下脚本只需引入一次 -->
+<script type="text/javascript" src="//cpro.baidustatic.com/cpro/ui/cm.js" async="async" defer="defer" ></script>
+</div>                        </div>
+</div>
+<div class="mod-news">
+<div class="hd">
+<h3>
+<a class="title" href="//www.ip138.com/mp/" target="_blank">媒体号</a>
+</h3>
+<a class="more" href="//www.ip138.com/mp/" target="_blank" rel="nofollow">更多</a>
+</div>
+<div class="bd">
+</div>
+</div>
+</div>
+<div class="footer">
+<div class="mod-foot">
+<div class="logo only-pc"><a href="http://www.ip138.com/"><img src="//cache.ip138.com/site/image/public/logo.png" width="147" height="50" alt="iP查询网"></a></div>
+<div class="info">
+<p>
+<span>厦门市漫游科技有限公司</span>
+<span>版权所有 &copy; 2022</span>
+<a href="http://www.ip138.com/mail.htm" rel="nofollow" target="_blank">联系我们</a>
+</p>
+<p>
+<span>闽网文[2019]2517-043号</span>
+<span>经营许可证编号：B1-20214948</span>
+<a href="https://beian.miit.gov.cn/" rel="nofollow" target="_blank">闽ICP备15026659号-7</a>
+&nbsp;
+<a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=35020302000956" rel="nofollow" target="_blank">闽公网安备35020302000956号</a>
+</p>
+</div>
+</div>
+<div class="mod-goback">
+<a href="#" rel="nofollow">返回顶部</a>
+</div>
+<div class="mod-mask"></div>
+</div>
+</div>
+</div>
+<script src="//cache.ip138.com/site/script/dist/common.js?v=202210081630"></script>
+<script src="//cache.ip138.com/site/script/dist/index.js?v=202210081630"></script>
+<script defer src="//cache.ip138.com/site/script/dist/mp.js?v=202210081630"></script>
+<script async src="//site.liantu.cn/script/?v=202210081630"></script>
+<script>
+(function(){
+var bp = document.createElement('script');
+var curProtocol = window.location.protocol.split(':')[0];
+if (curProtocol === 'https') {
+bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+}
+else {
+bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+}
+var s = document.getElementsByTagName("script")[0];
+s.parentNode.insertBefore(bp, s);
+})();
+</script>
+<div class="hide">
+<script>
+var _hmt = _hmt || [];
+(function() {
+var hm = document.createElement("script");
+hm.src = "https://hm.baidu.com/hm.js?5eae533355dec90155c46ae3ec820c53";
+var s = document.getElementsByTagName("script")[0];
+s.parentNode.insertBefore(hm, s);
+})();
+</script>
+<script>
+(function(){
+var src = "https://jspassport.ssl.qhimg.com/11.0.1.js?d182b3f28525f2db83acfaaf6e696dba";
+document.write('<script src="' + src + '" id="sozz"><\/script>');
+})();
+</script>
+</div>
+</body>
+</html>
