@@ -61,4 +61,4 @@ TODO:
 
 ## 运行效果
 
-![run](./run.ping "run")
+![run](./run.png "run")
