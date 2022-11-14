@@ -77,8 +77,9 @@ proc ip2domainPrint(ip:string): seq[seq[string]] =
     result = ip2domain(ip)
     var table: TerminalTable
     for domainAndTime in result:
-        table.add yellow  domainAndTime[0] , blue domainAndTime[1] 
-    table.echoTable()
+        table.add yellow  domainAndTime[0] , blue domainAndTime[1]
+    if table.rows > 0:
+        table.echoTable()
 
 
 # discard ip2domain("cip.cc")

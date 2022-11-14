@@ -92,11 +92,13 @@ proc domain2iphistoryPrint(domain:string) : seq[seq[string]] =
     var table: TerminalTable
     # table.add yellow  "备案类型", blue unicode.alignLeft("备案主体",10,Rune(12288)), red  "备案号",  red  "备案时间",  red "备案网站"
     for ipinfo in record:
-        # echo ipinfo
+        echo ipinfo
         # styledEcho(fgRed  , unicode.alignLeft(ipinfo[0][1],15,Rune(12288)) , fgBlue , unicode.alignLeft(ipinfo[1][1],25,Rune(12288)))
         table.add yellow  alignLeft(ipinfo[0],4,Rune(12288)), blue unicode.alignLeft(ipinfo[1],5,Rune(12288))
         # table.add yellow   ipinfo[0][1],  blue  ipinfo[1][1] , red ipinfo[2][1] ,  white ipinfo[3][1],  green ipinfo[4][1]
-    table.echoTable() 
+    # 查询不到记录时候容错
+    if table.rows > 0:
+        table.echoTable() 
 
 # var sameIpDomains  = iphistory
 

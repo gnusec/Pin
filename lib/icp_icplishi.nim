@@ -119,7 +119,8 @@ proc icpinfoPrint(domains: seq[string]) =
             # styledEcho(fgRed  , unicode.alignLeft(siteinfo[0][1],15,Rune(12288)) , fgBlue , unicode.alignLeft(siteinfo[1][1],25,Rune(12288)))
             table.add yellow  alignLeft(siteinfo[0][1],4,Rune(12288)), blue unicode.alignLeft(siteinfo[1][1],5,Rune(12288)), red unicode.alignLeft(siteinfo[2][1],10,Rune(12288)),  white siteinfo[3][1],  white siteinfo[4][1]
                 # table.add yellow   siteinfo[0][1],  blue  siteinfo[1][1] , red siteinfo[2][1] ,  white siteinfo[3][1],  green siteinfo[4][1]
-        table.echoTable() 
+        if table.rows > 0:
+            table.echoTable() 
 
 proc icpinfoPrint(domain:  string) = 
     icpinfoPrint(@[domain])

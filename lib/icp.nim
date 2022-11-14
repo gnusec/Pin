@@ -22,7 +22,7 @@ proc icpinfo(dst:string):seq[seq[string]] =
     try:
         resp =  client.getContent("https://icplishi.com/" & dst)
     except:
-        # echo "Exception " & getCurrentExceptionMsg()
+        echo "Exception " & getCurrentExceptionMsg()
         # result.add(@["备案网站",dst])
         return result
         # echo "Fucking Here"
@@ -119,19 +119,35 @@ proc icpinfoPrint(domains: seq[string]) =
         # else:
         for siteinfo in record:
             # echo siteinfo
+            # echo siteinfo.len
             # styledEcho(fgRed  , unicode.alignLeft(siteinfo[0][1],15,Rune(12288)) , fgBlue , unicode.alignLeft(siteinfo[1][1],25,Rune(12288)))
-            if siteinfo.len == 5:
+            # @TODO
+            # 这里如果出了异常结果 应该全部打印出来，不要再按位置来一个个显示了
+            # 但是table 要能add row
+            # 所以这里特殊情况干脆手工输出seq "[异常]=>" xxxxxxxx xxxxx xxxxx xxxxx
+            if siteinfo.len == 6:
+                table.add yellow  alignLeft(siteinfo[0][1],4,Rune(12288)), blue unicode.alignLeft(siteinfo[1][1],5,Rune(12288)), red unicode.alignLeft(siteinfo[2][1],10,Rune(12288)),  white siteinfo[3][1],  white siteinfo[4][1], white siteinfo[5][1]
+            elif siteinfo.len == 5:
                 # @[@[@["备案类型", "个人"], @["备案主体", "林小波"], @["备案号", "闽ICP备13019094号-2"], @["备案时间", "2020-08-03至2022-10-12"], @["备案网站", "boll.cn"]]]
                 table.add yellow  alignLeft(siteinfo[0][1],4,Rune(12288)), blue unicode.alignLeft(siteinfo[1][1],5,Rune(12288)), red unicode.alignLeft(siteinfo[2][1],10,Rune(12288)),  white siteinfo[3][1],  white siteinfo[4][1]
             elif siteinfo.len == 4:
+
                 # 未备案的情况下, 只有四个属性
                 # @[@[@["网站首页", "boll.me"], @["备案类型", "未备案"], @["检测时间", "2022-07-10至2022-10-14"], @["备案网站", "boll.me"]]]
                 table.add yellow  alignLeft(siteinfo[1][1],4,Rune(12288)), blue unicode.alignLeft("无",5,Rune(12288)), red unicode.alignLeft("无",10,Rune(12288)),  white siteinfo[2][1],  white siteinfo[3][1]
-
-        table.echoTable() 
+        # echo table
+        if table.rows > 0:
+            table.echoTable() 
 
 proc icpinfoPrint(domain:  string) = 
     icpinfoPrint(@[domain])
-
+# echo "=============="
 # icpinfoPrint(@["cip.cc","ip.cn"])
-icpinfoPrint("edu.cn")
+# icpinfoPrint(@["cip.cc"])
+
+# 
+# @Todo
+# 加个容错
+# @[@["备案网站", "ip.cn"]]
+# icpinfoPrint(@["ip.cn"])
+# icpinfoPrint("edu.cn")
