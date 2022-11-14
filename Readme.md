@@ -59,3 +59,6 @@ TODO:
 `nim c -d:release  -d:ssl -d=mingw --app=console  --opt:size --passL:-lws2_32   -o:pin_windowsx64 pin.nim`
 
 
+## 运行效果
+
+![run](./run.ping "run")
